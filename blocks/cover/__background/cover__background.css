@@ -44,6 +44,12 @@
 @media (max-width: 500px) {
   .cover__background {
     max-width: 320;
+    min-height: 300px;
+  }
+}
+
+@media (max-width: 400px) {
+  .cover__background {
     min-height: 200px;
   }
 }
