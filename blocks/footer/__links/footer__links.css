@@ -5,8 +5,7 @@
 
 @media (max-width: 660px) {
   .footer__links {
-    flex-wrap: wrap;
-    flex-direction: column;
+    flex: wrap column;
   }
 }
 
