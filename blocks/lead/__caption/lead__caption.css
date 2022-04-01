@@ -11,7 +11,7 @@
   align-self: flex-start;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 940px) {
   .lead__caption {
     padding-left: 24px;
   }
