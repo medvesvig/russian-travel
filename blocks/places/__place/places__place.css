@@ -34,8 +34,7 @@
   }
 }
 
-
-@media (max-width: 520px) {
+@media (max-width: 530px) {
   .places__place {
     grid-template-columns: 1fr;
     max-width: 340px;

@@ -16,9 +16,3 @@
     max-width: 340px;
   }
 }
-
-@media (max-width: 500px) {
-  .places__image {
-    width: 100%;
-  }
-}

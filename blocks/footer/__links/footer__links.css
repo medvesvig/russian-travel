@@ -5,12 +5,7 @@
 
 @media (max-width: 660px) {
   .footer__links {
-    flex: wrap column;
-  }
-}
-
-@media (max-width: 400px) {
-  .footer__links {
+    flex-flow: wrap column;
     gap: 32px;
   }
 }
